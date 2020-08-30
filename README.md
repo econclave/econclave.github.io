@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Econclave 
 
-You can use the [editor on GitHub](https://github.com/econclave/econclave.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## This is a blog page that covers various issues related to markets, industries and business
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The blogs have been written to cover the above mentioned objectives and areas such as markets, industries and business. The main objective of this blog is to provide the readers with cutting-edge analysis of the **MARKETS**.
 
-### Markdown
+These are the blogs. Read and Analyse
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Econclave Image](https://images.unsplash.com/photo-1568234928966-359c35dd8327?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-```markdown
-Syntax highlighted code block
+Happy Reading :thumbsup:
 
-# Header 1
-## Header 2
-### Header 3
+1. [VIL Strategic Merger](https://econclave.github.io/VIL-s-strategic-move--An-analysis-of-market-situation/)
+2. [Company law and Sun Pharma]( https://econclave.github.io/The-Sun-that-was-eclipsed-by-Law/)
+3. [Toyota and its strategy](https://econclave.github.io/The-Pursuit-of-Profit/)
+4. [Indian FMCG Giants](https://econclave.github.io/The-Good-The-Bad-The-Ugly./)
+5. [The dying Aviation Industry](https://econclave.github.io/SWOT-Evolution-Neutralizing-weakness-using-a-threat/)
+6. [TRAI Regulations for TV](https://econclave.github.io/Pandora-s-Idiot-Box/)
+7. [Patanjali's Rise in FMCG](https://econclave.github.io/Haridwar-to-Har-Dwar/)
+8. [Personal Finance](https://econclave.github.io/Financial-Discipline/)
+9. [The Big4 and Financial Sector](https://econclave.github.io/The-De-trop-phase-of-the-financial-sector/)
+10. [Jammu and Kashmir](https://econclave.github.io/constitutional-contemplation/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/econclave/econclave.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
