@@ -19,5 +19,6 @@ Happy Reading :thumbsup:
 7. [Patanjali's Rise in FMCG](https://econclave.github.io/Haridwar-to-Har-Dwar/)
 8. [Personal Finance](https://econclave.github.io/Financial-Discipline/)
 9. [The Big4 and Financial Sector](https://econclave.github.io/The-De-trop-phase-of-the-financial-sector/)
+10. [Black Friday and Cyber Monday](https://econclave.github.io/Digital_marketing/) 
 
 
